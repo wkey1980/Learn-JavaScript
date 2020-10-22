@@ -1,36 +1,33 @@
-// function test() {
-//     for (var i = 0; i < 5; i++) {
-//         console.log('loop: ' + i);
-//     }
-//     console.log('After: ' + i);
+// document.getElementById("myButton").onclick = function () {
+//     document.getElementById("text").innerHTML = .document.body.style.backgroundColor = "red";
 // }
 
-// test();
-// console.log('After: ' + i);
-
-// console.log(5 == '5');
-// console.log(5 === '5');
-
-// console.log(true == 1);
-// console.log(true === 1);
-
-// console.log('Testing Equality' === new String('Testing Equality'));
-
-// let name = 'will';
-// let age = null;
-// console.log(name, age);
 
 
-// const numbers = [];
-// for (let i = 0; i <= 50; i++) {
-//     if (i > 2) break;
-//     numbers.push(i);
+
+// document.getElementById("myButton").onclick = function () {
+//     .document.body.style.backgroundColor = "red";
+// };
+
+// function myFunction() {
+//     document.body.style.backgroundColor = "red";
+// };
+
+
+
+
+// document.getElementById("myButton").onclick = function () {
+//     document.getElementById("text").innerHTML = "Hello Will"
 // }
-// console.log(numbers);
 
-const numbers = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+// document.getElementById("myButton2").onclick = function () {
+//     document.getElementById("secondParagraph").innerHTML = "I Think JavaScript is " + document.getElementById("secondParagraph").innerHTML + " Great.";
+// };
 
-for (let i = 0; i < numbers.length; i++) {
-    if (i > 5) break;
-    console.log(numbers[i]);
-}
+
+
+
+
+// document.getElementById("myButton2").onclick = function () {
+//     document.getElementById("text").innerHTML = text + " Great."
+// }
