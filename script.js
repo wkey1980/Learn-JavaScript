@@ -31,3 +31,13 @@
 // document.getElementById("myButton2").onclick = function () {
 //     document.getElementById("text").innerHTML = text + " Great."
 // }
+
+
+
+
+
+
+
+
+let submitBtn = document.getElementById('submit');
+submitBtn.style = "background-color: green";
